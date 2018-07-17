@@ -1,0 +1,17 @@
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\bin\Debug\Dapper.exe.config
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\bin\Debug\Dapper.exe
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\bin\Debug\Dapper.pdb
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\obj\Debug\Dapper.csproj.CoreCompileInputs.cache
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\obj\Debug\Dapper.exe
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\obj\Debug\Dapper.pdb
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\bin\Debug\Dapper.dll
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\bin\Debug\Dapper.xml
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\obj\Debug\Dapper.csprojAssemblyReference.cache
+C:\Users\patricia.oshiro\Desktop\Testes\TesteDapper\Dapper\obj\Debug\Dapper.csproj.CopyComplete
+C:\Users\user\Downloads\TesteDapper\TesteDapper\Dapper\obj\Debug\Dapper.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\TesteDapper\TesteDapper\Dapper\bin\Debug\Dapper.exe.config
+C:\Users\user\Downloads\TesteDapper\TesteDapper\Dapper\bin\Debug\Dapper.exe
+C:\Users\user\Downloads\TesteDapper\TesteDapper\Dapper\bin\Debug\Dapper.pdb
+C:\Users\user\Downloads\TesteDapper\TesteDapper\Dapper\obj\Debug\Dapper.csprojResolveAssemblyReference.cache
+C:\Users\user\Downloads\TesteDapper\TesteDapper\Dapper\obj\Debug\Dapper.exe
+C:\Users\user\Downloads\TesteDapper\TesteDapper\Dapper\obj\Debug\Dapper.pdb
